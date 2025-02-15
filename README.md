@@ -6,7 +6,7 @@ Welcome to the Ecosystem Simulator! This Python application simulates various ec
 
 - Simulate different ecosystems with customizable parameters.
 - Visualize species interactions and population dynamics.
+- Observe evolution of species through natural selection
 - Interactive user interface for parameter input and simulation control.
-- Real-time updates and graphical representations of the ecosystem.
-- Option to save and load simulation states.
+- Graphical representations of the ecosystem.
 
